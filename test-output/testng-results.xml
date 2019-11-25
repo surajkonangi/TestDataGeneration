@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-25T15:20:55Z" name="Default suite" finished-at="2019-11-25T15:20:57Z" duration-ms="1571">
+    <groups>
+    </groups>
+    <test started-at="2019-11-25T15:20:55Z" name="Default test" finished-at="2019-11-25T15:20:57Z" duration-ms="1571">
+      <class name="com.atmecs.assesment.qaautomation.testscripts.Insurance">
+        <test-method signature="gettingDates()[pri:0, instance:com.atmecs.assesment.qaautomation.testscripts.Insurance@20b12f8a]" started-at="2019-11-25T15:20:55Z" name="gettingDates" finished-at="2019-11-25T15:20:57Z" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingDates -->
+      </class> <!-- com.atmecs.assesment.qaautomation.testscripts.Insurance -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
